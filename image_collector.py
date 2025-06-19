@@ -5,7 +5,7 @@ import uuid
 
 path = "Frames"
 
-labels = ['help','busy','congratulations','sorry','ok']
+labels = ['nice','my', 'name', 'is',]
 
 num_images = 20
 
