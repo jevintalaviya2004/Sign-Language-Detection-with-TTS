@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hello</folder>
+	<filename>Hello_0fbf7c12-1bad-4084-98d4-f80be8214090.jpg</filename>
+	<path>C:\DIT\Computer vision\Sign-Language-Detection-with-TTS\Frames\Hello\Hello_0fbf7c12-1bad-4084-98d4-f80be8214090.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>78</ymin>
+			<xmax>714</xmax>
+			<ymax>728</ymax>
+		</bndbox>
+	</object>
+</annotation>
