@@ -10,7 +10,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.callbacks import ModelCheckpoint
 
 # ---------- CONFIG ----------
-DATASET_PATH = 'Frames'
+DATASET_PATH = 'Frames2'
 IMG_SIZE = (64, 64)
 EPOCHS = 30
 BATCH_SIZE = 32
